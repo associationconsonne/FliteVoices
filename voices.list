@@ -11,7 +11,7 @@ eng-USA-female;clb	71a9cce0157be58c944f4fdf3470373a	cg.flitevox
 eng-USA-female;eey	4abd8bab4535b3bf7ba880d33d425e77	cg.flitevox
 eng-USA-female;ljm	32f50460bf126e4f52c09ea6c2e6b422	cg.flitevox
 eng-USA-female;slt	a65f309e638ceeca6548a817fc285f1f	cg.flitevox
-eng-USA-female;slt	4cd1d12379a07c138fd73712442e9167	htsvoice
+eng-USA-female;slt	4cd1d12379a07c138fd73712442e9167	htsvoice	cmu_us_slt_hts
 eng-USA-male;aew	b93e0d3e259122f00a0b5d4f118e7580	cg.flitevox
 eng-USA-male;bdl	d654bb92b3b1d548ef2c58b28a5f0fec	cg.flitevox
 eng-USA-male;rms	2485ee075a2e0f34ff9b4edb12d407d9	cg.flitevox
