@@ -21,4 +21,5 @@ mar-IND-female;slp	67f7b92248845b5eac18a4e52b6ef493	cg.flitevox
 tam-IND-female;sxv	af7393cab410ff3d61f1314bd11f3034	cg.flitevox
 tel-IND-female;knr	e36c5e7e726aa7dd6aa44fb4e95605f9	cg.flitevox
 fra-FRA-female;zoe	4187369c022c79cc775f22e1e946fbab	htsvoice	net_fr_youpi_hts
-eng-GBR-male;mycroft	724b697266a1ecab7e53ad802fd394ed	cg.flitevox	
+eng-GBR-male;mycroft	724b697266a1ecab7e53ad802fd394ed	cg.flitevox
+fra-GBR-female;test	643fb6d758777a983e84137511907db2	cg.flitevox	
