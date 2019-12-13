@@ -9,7 +9,6 @@ eng-IND-male;ksp	3fd0a65def75a533405c4cc230e2d255	cg.flitevox
 eng-ISR-male;rxr	be587a05d2a9eecf72218d1ff1d67b08	cg.flitevox
 eng-USA-female;clb	71a9cce0157be58c944f4fdf3470373a	cg.flitevox
 eng-USA-female;eey	4abd8bab4535b3bf7ba880d33d425e77	cg.flitevox
-eng-USA-female;lnh	6a87cf09c28fb0305bc7db6cb253f0a9	cg.flitevox
 eng-USA-female;ljm	32f50460bf126e4f52c09ea6c2e6b422	cg.flitevox
 eng-USA-female;slt	a65f309e638ceeca6548a817fc285f1f	cg.flitevox
 eng-USA-female;slt	4cd1d12379a07c138fd73712442e9167	htsvoice	cmu_us_slt_hts
@@ -18,17 +17,12 @@ eng-USA-male;bdl	d654bb92b3b1d548ef2c58b28a5f0fec	cg.flitevox
 eng-USA-male;rms	2485ee075a2e0f34ff9b4edb12d407d9	cg.flitevox
 ben-IND-female;rm	4da717d5561047bbb6397b46df3d7f0e	cg.flitevox
 guj-IND-female;axb	3e0fb63f6faee3b1d751bc31697b469e	cg.flitevox
-guj-IND-male;ad	2968363cb1b7df1291242f56434737ac	cg.flitevox
-guj-IND-female;dp	ed6bd5904bb533cf8bac7cfcffe2b619	cg.flitevox
-guj-IND-female-kt	6bbf284af95a379e7c0b351d61fd402f	cg.flitevox
 hin-IND-female;axb	34dc7e7d5c92b398d357d1f67411249f	cg.flitevox
-hin-IND-female;ab	350637dd08a276d8902d981e41afe37d	cg.flitevox
 mar-IND-female;slp	67f7b92248845b5eac18a4e52b6ef493	cg.flitevox
 tam-IND-female;sxv	af7393cab410ff3d61f1314bd11f3034	cg.flitevox
 tel-IND-female;knr	e36c5e7e726aa7dd6aa44fb4e95605f9	cg.flitevox
-tel-IND-female;ss	2a167726edda7330755abce5f39ac707	cg.flitevox
-tel-IND-female;kpn	9514d49091a3e042a83c17d5950f963e	cg.flitevox
 fra-FRA-female;zoe	4187369c022c79cc775f22e1e946fbab	htsvoice	net_fr_youpi_hts
 eng-GBR-male;mycroft	724b697266a1ecab7e53ad802fd394ed	cg.flitevox
 fra-MYT-female;zoe	d1abe164ba7fabf73698c823f62528c9	cg.flitevox
 deu-AUT-male;leo	26b375a98ba71c8a7737014e0c46d79f	htsvoice	net_de_leo_hts
+swa-KEN-female;puri	30c15f6dbde5167a953a57adc88d5f68	cg.flitevox
