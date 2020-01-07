@@ -1,44 +1,44 @@
-eng-CAN-male;jmk	1d77be3e5b13c187a910bb99c9e3e261	cg.flitevox		11252		"
+eng-CAN-male;jmk	1d77be3e5b13c187a910bb99c9e3e261	cg.flitevox		11522048		"
 OntarioCanadian(Southern)"
-eng-DEU-male;ahw	77a00757031f91f722bc9bc66b9a972b	cg.flitevox		21396		From the CMU_ARCTIC databases of Carnegie Mellon University
-eng-DEU-male;fem	481358d1e88bc99f92e851a00e2b2bff	cg.flitevox		12268		From the CMU_ARCTIC databases of Carnegie Mellon University
-eng-GBR-male;awb	4d16d8bdefd2e3dea01b5756ec845f31	cg.flitevox		22912		"South EasternScottish(Edinburgh) The speaker is very experienced in building synthetic voices and matched prompted US English, though his vowels are very different from US English vowels. Scottish English speakers will probably find synthesizers based on this voice strange.
+eng-DEU-male;ahw	77a00757031f91f722bc9bc66b9a972b	cg.flitevox		21909504		From the CMU_ARCTIC databases of Carnegie Mellon University
+eng-DEU-male;fem	481358d1e88bc99f92e851a00e2b2bff	cg.flitevox		12562432		From the CMU_ARCTIC databases of Carnegie Mellon University
+eng-GBR-male;awb	4d16d8bdefd2e3dea01b5756ec845f31	cg.flitevox		23461888		"South EasternScottish(Edinburgh) The speaker is very experienced in building synthetic voices and matched prompted US English, though his vowels are very different from US English vowels. Scottish English speakers will probably find synthesizers based on this voice strange.
 "
-eng-IND-female;axb	b3217e464f742a241a6f1a09f8cb7a00	cg.flitevox		14640		From the CMU_ARCTIC databases of Carnegie Mellon University
-eng-IND-male;aup	4d3b7720998fdec0e218dfd68458543e	cg.flitevox		11204		From the CMU_ARCTIC databases of Carnegie Mellon University
-eng-IND-male;gka	831562fd2b1368479b11406593adf262	cg.flitevox		13804		From the CMU_ARCTIC databases of Carnegie Mellon University
-eng-IND-male;ksp	3fd0a65def75a533405c4cc230e2d255	cg.flitevox		24372		From the CMU_ARCTIC databases of Carnegie Mellon University
-eng-ISR-male;rxr	be587a05d2a9eecf72218d1ff1d67b08	cg.flitevox		15528		From the CMU_ARCTIC databases of Carnegie Mellon University
-eng-USA-female;clb	71a9cce0157be58c944f4fdf3470373a	cg.flitevox		26216		From the CMU_ARCTIC databases of Carnegie Mellon University
-eng-USA-female;eey	4abd8bab4535b3bf7ba880d33d425e77	cg.flitevox		12068		From the CMU_ARCTIC databases of Carnegie Mellon University
-eng-USA-female;ljm	32f50460bf126e4f52c09ea6c2e6b422	cg.flitevox		11252		From the CMU_ARCTIC databases of Carnegie Mellon University
-eng-USA-female;lnh	6a87cf09c28fb0305bc7db6cb253f0a9	cg.flitevox		11618		From the CMU_ARCTIC databases of Carnegie Mellon University
-eng-USA-female;slt	a65f309e638ceeca6548a817fc285f1f	cg.flitevox		23128		North midland American 
-eng-USA-female;slt	4cd1d12379a07c138fd73712442e9167	htsvoice	cmu_us_slt_hts	1556	Creative Commons Attribution 3.0 HTS Working Group 	From the CMU_ARCTIC databases of Carnegie Mellon University
-eng-USA-male;aew	b93e0d3e259122f00a0b5d4f118e7580	cg.flitevox		26404		From the CMU_ARCTIC databases of Carnegie Mellon University
-eng-USA-male;bdl	d654bb92b3b1d548ef2c58b28a5f0fec	cg.flitevox		21084		North midland American
-eng-USA-male;rms	2485ee075a2e0f34ff9b4edb12d407d9	cg.flitevox		26964		From the CMU_ARCTIC databases of Carnegie Mellon University
-guj-IND-female;axb	3e0fb63f6faee3b1d751bc31697b469e	cg.flitevox		55108		
-guj-IND-female;dp	ed6bd5904bb533cf8bac7cfcffe2b619	cg.flitevox		9996		
-guj-IND-female;kt	6bbf284af95a379e7c0b351d61fd402f	cg.flitevox		5776		
-guj-IND-male;ad	2968363cb1b7df1291242f56434737ac	cg.flitevox		11104		
-hin-IND-female;ab	350637dd08a276d8902d981e41afe37d	cg.flitevox		30176		
-hin-IND-female;axb	34dc7e7d5c92b398d357d1f67411249f	cg.flitevox		55076		
-mar-IND-female;slp	67f7b92248845b5eac18a4e52b6ef493	cg.flitevox		14940		
-tam-IND-female;sxv	af7393cab410ff3d61f1314bd11f3034	cg.flitevox		8860		
-tel-IND-female;knr	e36c5e7e726aa7dd6aa44fb4e95605f9	cg.flitevox		38044		
-tel-IND-female;kpn	9514d49091a3e042a83c17d5950f963e	cg.flitevox		13068		
-tel-IND-female;ss	2a167726edda7330755abce5f39ac707 	cg.flitevox		22128		
-fra-FRA-female;zoe	4187369c022c79cc775f22e1e946fbab	htsvoice	net_fr_youpi_hts	10328		
-eng-GBR-male;mycroft	724b697266a1ecab7e53ad802fd394ed	cg.flitevox		70380		VocalId  and Mycroft’s Alan Pope’s voice
-fra-MYT-female;zoe	d1abe164ba7fabf73698c823f62528c9	cg.flitevox		5828		
-deu-AUT-male;leo	26b375a98ba71c8a7737014e0c46d79f	htsvoice	net_de_leo_hts	3444		
-swa-KEN-female;puri	e07faa5b694e9272ba2e07fe14b47af8	cg.flitevox		1488		
-cat-SPA-male;pau	00a39103e53b77add958d31a9c4cf2c3	htsvoice		4700		
-hin-IND-male;sxs	405952a4d6dc0556766d1333a10a5460 	cg.flitevox		49060		
-tel-IND-male;sk	7ce2f9182411a7f141a98c41b22962db	cg.flitevox		13420		
-mar-IND-male;aup	953ea9792508e8b5f39cbc34b1abc995	cg.flitevox		11540		
-tam-IND-female;sdr	2e6479ca6c66ab21aa8cc43acf0abd9a	cg.flitevox		11096		
-kan-IND-female;plv	448112ffa5d894b4126553e9c8d9efd2	cg.flitevox		8696		
-pan-IND-female;amp	eb3c9400590f70aa0a4d53ff052d83ad	cg.flitevox		7848		
-tam-IND-male;sks	c62e9171ff93e1b70e00515dad17a58c	cg.flitevox		32068		
+eng-IND-female;axb	b3217e464f742a241a6f1a09f8cb7a00	cg.flitevox		14991360		From the CMU_ARCTIC databases of Carnegie Mellon University
+eng-IND-male;aup	4d3b7720998fdec0e218dfd68458543e	cg.flitevox		11472896		From the CMU_ARCTIC databases of Carnegie Mellon University
+eng-IND-male;gka	831562fd2b1368479b11406593adf262	cg.flitevox		14135296		From the CMU_ARCTIC databases of Carnegie Mellon University
+eng-IND-male;ksp	3fd0a65def75a533405c4cc230e2d255	cg.flitevox		24956928		From the CMU_ARCTIC databases of Carnegie Mellon University
+eng-ISR-male;rxr	be587a05d2a9eecf72218d1ff1d67b08	cg.flitevox		15900672		From the CMU_ARCTIC databases of Carnegie Mellon University
+eng-USA-female;clb	71a9cce0157be58c944f4fdf3470373a	cg.flitevox		26845184		From the CMU_ARCTIC databases of Carnegie Mellon University
+eng-USA-female;eey	4abd8bab4535b3bf7ba880d33d425e77	cg.flitevox		12357632		From the CMU_ARCTIC databases of Carnegie Mellon University
+eng-USA-female;ljm	32f50460bf126e4f52c09ea6c2e6b422	cg.flitevox		11522048		From the CMU_ARCTIC databases of Carnegie Mellon University
+eng-USA-female;lnh	6a87cf09c28fb0305bc7db6cb253f0a9	cg.flitevox		11896832		From the CMU_ARCTIC databases of Carnegie Mellon University
+eng-USA-female;slt	a65f309e638ceeca6548a817fc285f1f	cg.flitevox		23683072		North midland American 
+eng-USA-female;slt	4cd1d12379a07c138fd73712442e9167	htsvoice	cmu_us_slt_hts	1593344	Creative Commons Attribution 3.0 HTS Working Group 	From the CMU_ARCTIC databases of Carnegie Mellon University
+eng-USA-male;aew	b93e0d3e259122f00a0b5d4f118e7580	cg.flitevox		27037696		From the CMU_ARCTIC databases of Carnegie Mellon University
+eng-USA-male;bdl	d654bb92b3b1d548ef2c58b28a5f0fec	cg.flitevox		21590016		North midland American
+eng-USA-male;rms	2485ee075a2e0f34ff9b4edb12d407d9	cg.flitevox		27611136		From the CMU_ARCTIC databases of Carnegie Mellon University
+guj-IND-female;axb	3e0fb63f6faee3b1d751bc31697b469e	cg.flitevox		56430592		
+guj-IND-female;dp	ed6bd5904bb533cf8bac7cfcffe2b619	cg.flitevox		10235904		
+guj-IND-female;kt	6bbf284af95a379e7c0b351d61fd402f	cg.flitevox		5914624		
+guj-IND-male;ad	2968363cb1b7df1291242f56434737ac	cg.flitevox		11370496		
+hin-IND-female;ab	350637dd08a276d8902d981e41afe37d	cg.flitevox		30900224		
+hin-IND-female;axb	34dc7e7d5c92b398d357d1f67411249f	cg.flitevox		56397824		
+mar-IND-female;slp	67f7b92248845b5eac18a4e52b6ef493	cg.flitevox		15298560		
+tam-IND-female;sxv	af7393cab410ff3d61f1314bd11f3034	cg.flitevox		9072640		
+tel-IND-female;knr	e36c5e7e726aa7dd6aa44fb4e95605f9	cg.flitevox		38957056		
+tel-IND-female;kpn	9514d49091a3e042a83c17d5950f963e	cg.flitevox		13381632		
+tel-IND-female;ss	2a167726edda7330755abce5f39ac707 	cg.flitevox		22659072		
+fra-FRA-female;zoe	4187369c022c79cc775f22e1e946fbab	htsvoice	net_fr_youpi_hts	10575872		
+eng-GBR-male;mycroft	724b697266a1ecab7e53ad802fd394ed	cg.flitevox		72069120		VocalId  and Mycroft’s Alan Pope’s voice
+fra-MYT-female;zoe	d1abe164ba7fabf73698c823f62528c9	cg.flitevox		5967872		
+deu-AUT-male;leo	26b375a98ba71c8a7737014e0c46d79f	htsvoice	net_de_leo_hts	3526656		
+swa-KEN-female;puri	e07faa5b694e9272ba2e07fe14b47af8	cg.flitevox		1523712		
+cat-SPA-male;pau	00a39103e53b77add958d31a9c4cf2c3	htsvoice		4812800		
+hin-IND-male;sxs	405952a4d6dc0556766d1333a10a5460 	cg.flitevox		50237440		
+tel-IND-male;sk	7ce2f9182411a7f141a98c41b22962db	cg.flitevox		13742080		
+mar-IND-male;aup	953ea9792508e8b5f39cbc34b1abc995	cg.flitevox		11816960		
+tam-IND-female;sdr	2e6479ca6c66ab21aa8cc43acf0abd9a	cg.flitevox		11362304		
+kan-IND-female;plv	448112ffa5d894b4126553e9c8d9efd2	cg.flitevox		8904704		
+pan-IND-female;amp	eb3c9400590f70aa0a4d53ff052d83ad	cg.flitevox		8036352		
+tam-IND-male;sks	c62e9171ff93e1b70e00515dad17a58c	cg.flitevox		32837632		
