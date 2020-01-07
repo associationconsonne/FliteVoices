@@ -34,7 +34,7 @@ eng-GBR-male;mycroft	724b697266a1ecab7e53ad802fd394ed	cg.flitevox		72069120		Voc
 fra-MYT-female;zoe	d1abe164ba7fabf73698c823f62528c9	cg.flitevox		5967872		
 deu-AUT-male;leo	26b375a98ba71c8a7737014e0c46d79f	htsvoice	net_de_leo_hts	3526656		
 swa-KEN-female;puri	e07faa5b694e9272ba2e07fe14b47af8	cg.flitevox		1523712		
-cat-SPA-male;pau	00a39103e53b77add958d31a9c4cf2c3	htsvoice		4812800		
+cat-SPA-male;pau	00a39103e53b77add958d31a9c4cf2c3	htsvoice	net_cat_cen_hts	4812800		
 hin-IND-male;sxs	405952a4d6dc0556766d1333a10a5460 	cg.flitevox		50237440		
 tel-IND-male;sk	7ce2f9182411a7f141a98c41b22962db	cg.flitevox		13742080		
 mar-IND-male;aup	953ea9792508e8b5f39cbc34b1abc995	cg.flitevox		11816960		
